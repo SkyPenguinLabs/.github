@@ -1,3 +1,1 @@
-# Who Are We 
-
-SkyPenguin solutions is a cyber security solutions dealer dedicated to giving you the most prime and secure cyber security solutions. Whether those solutions may consist of password managers that are easy to install or use, maybe even if it is a simple data parser we have it! This will be the first open sourced organization page for skypenguin as we want to ensure our customersa and team members know what they are buying!
+SkyPenguin Open is a open sourced github community for SkyPenguin which is a cyber security and general IT solutions based dealer which promises you get what you pay for. At SkyPenguin we ensure our customers what they are getting is not only safe but also structured, what better way to prove this than to make a community! 
