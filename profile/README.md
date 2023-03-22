@@ -1,3 +1,3 @@
-# What is SkyPenguin
+# Who are we? 
 
-SkyPenguin-Open is a open sourced github community for SkyPenguin which is a cyber security and general IT solutions based dealer which promises you get what you pay for. At SkyPenguin we ensure our customers what they are getting is not only safe but also structured, what better way to prove this than to make a community! 
+SkyPenguin-Open is a open sourced github community for SkyPenguin which is an upcoming cyber security and general IT solutions company which is designed to give out only the best frameworks and tools on the market today. The open sourced community is where all of SkyPenguin's open sourced repo's will exist.
